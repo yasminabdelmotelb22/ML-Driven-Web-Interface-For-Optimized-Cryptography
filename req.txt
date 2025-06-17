@@ -1,0 +1,4 @@
+pip install gradio
+pip install --upgrade gradio
+pip install pandas
+python --version
